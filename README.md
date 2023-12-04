@@ -9,5 +9,5 @@ You'll find descriptions for all of the nodes found in VNyan, some common node s
 Here are some of the main pages:
 - [Action](../../Action-Nodes), [Callback](../../wiki/Callback-Nodes), and [Gateway](../../wiki/Conditional-Nodes) nodes
 - [Frequently Asked Questions](../../wiki/How-To#faq)
-- [Community Graph Setups](../../wiki/How-To#external-graphs-and-resources)
+- [Community Graph Setups](../../wiki/How-To#community-graphs-and-resources)
 - [Release Notes](../../wiki/release-notes)
