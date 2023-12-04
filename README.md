@@ -6,3 +6,8 @@ This is a fork of Suvi's VNyanDoc wiki to work through additions and changes :3
 ## [VNyan Wiki](../../wiki)
 You'll find descriptions for all of the nodes found in VNyan, some common node setups, and more!
 
+Here are some of the main pages:
+- [Action](../../Action-Nodes), [Callback](../../wiki/Callback-Nodes), and [Gateway](../../wiki/Conditional-Nodes) nodes
+- [Frequently Asked Questions](../../wiki/How-To#faq)
+- [Community Graph Setups](../../wiki/How-To#external-graphs-and-resources)
+- [Release Notes](../../wiki/release-notes)
