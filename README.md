@@ -3,6 +3,8 @@
 
 This is a fork of Suvi's VNyanDoc wiki to work through additions and changes :3
 
+[VNyan Download on itch.io](https://suvidriel.itch.io/vnyan)
+
 ## [VNyan Wiki](../../wiki)
 You'll find descriptions for all of the nodes found in VNyan, some common node setups, and more!
 
