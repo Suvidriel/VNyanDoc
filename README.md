@@ -1,5 +1,5 @@
 # VNyan documentation
-*updated as of v1.3.0*
+*updated as of v1.3.4*
 
 This is a fork of Suvi's VNyanDoc wiki to work through additions and changes :3
 
