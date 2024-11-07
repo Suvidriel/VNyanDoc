@@ -6,7 +6,7 @@ VNyan is the most Feature-Rich, Free 3D VTuber application for bringing your VTu
 This github contains documentation and descriptions for all of the nodes and settings found in VNyan, some common node setups, and more!
 
 Here are some of the main pages:
-- [Action](../../Action-Nodes), [Callback](../../wiki/Callback-Nodes), [Gateway](../../wiki/Conditional-Nodes), and [Value](../../wiki/Value-Nodes) nodes
+- [Action](../../wiki/Action-Nodes), [Callback](../../wiki/Callback-Nodes), [Gateway](../../wiki/Conditional-Nodes), and [Value](../../wiki/Value-Nodes) nodes
 - [Frequently Asked Questions](../../wiki/How-To#faq)
 - [Community Graphs](../../wiki/How-To#community-graphs-and-resources)
 - [Release Notes](../../wiki/release-notes)
